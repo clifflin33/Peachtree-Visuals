@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div>
       <nav className="nav">
-        <h2>GT Creative</h2>
+        <h2>Peachtree Visuals</h2>
         <div>
           <Link to="/">Home</Link>
           <Link to="/team">Team</Link>
